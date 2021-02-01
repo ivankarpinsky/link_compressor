@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vanesicks",
+  "mongoUri": "mongodb+srv://vanesicks:33612658@cluster0.xm9aq.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
